@@ -1,4 +1,4 @@
-describe 'Caixa de Seleção', :dropdown do 
+describe 'Caixa de Opções', :dropdown do 
 
     it 'item especifico' do #cenario
         visit 'https://training-wheels-protocol.herokuapp.com/dropdown'
